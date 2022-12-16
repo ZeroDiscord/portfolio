@@ -15,5 +15,5 @@
 - [Webpack](https://webpack.js.org/)
 
 
-#### Huge Thanks to [@oadpoaw](https://github.com/oadpoaw) for letting me use his boilerplate!
+#### Huge Thanks to [@enum314](https://github.com/enum314)!
 
