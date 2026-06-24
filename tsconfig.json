@@ -4,7 +4,7 @@
         "module": "ESNext",
         "moduleResolution": "node",
         "target": "ESNext",
-        "jsx": "preserve",
+        "jsx": "react",
         "importsNotUsedAsValues": "error",
         "noEmit": true,
         "strict": true,
